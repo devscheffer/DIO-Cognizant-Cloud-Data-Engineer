@@ -29,8 +29,10 @@ pip install package_name
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from huffman_sch.main import huffman_sch
+text = 'hello world'
+cls = huffman_sch(text)
+print(cls.compression())
 ```
 
 ## Author
