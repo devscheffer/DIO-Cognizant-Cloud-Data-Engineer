@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: huffman-sch
+Version: 0.0.1
+Summary: text compression using Huffman algorithm
+Home-page: https://github.com/devscheffer/DIO-Cognizant-Cloud-Data-Engineer
+Author: scheffer
+Author-email: my_email
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# ReferÃªncia
+
+https://pt.wikipedia.org/wiki/Codifica%C3%A7%C3%A3o_de_Huffman#Algoritmo
+https://www.gatevidyalay.com/huffman-coding-huffman-encoding/
+
+# Algoritmo de Huffman
+
+- [x] DicionÃ¡rio de frequÃªncia
+- [x] DicionÃ¡rio de lista de mesma frequÃªncia
+- [x] CriaÃ§Ã£o de arvore binaria
+- [x] DicionÃ¡rio dos path para cada leaf
+- [x] ConversÃ£o da lista path para string
+- [x] FunÃ§Ã£o do cÃ¡lculo da compressÃ£o
+
+# huffman-sch
+
+Description.
+The package package_name is used to:
+	- Text compression using Huffman algorithm.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install package_name
+```
+
+## Usage
+
+```python
+from package_name.module1_name import file1_name
+file1_name.my_function()
+```
+
+## Author
+My_name
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+

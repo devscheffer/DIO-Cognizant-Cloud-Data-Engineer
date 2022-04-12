@@ -1,0 +1,6 @@
+pyproject.toml
+setup.py
+huffman_sch.egg-info/PKG-INFO
+huffman_sch.egg-info/SOURCES.txt
+huffman_sch.egg-info/dependency_links.txt
+huffman_sch.egg-info/top_level.txt
